@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(243, 210, 139);
+}
+.moose {
+    background-color: rgb(59, 41, 0);
+}
+h1 {
+    color: rgb(46, 19, 0);
+}
+button {
+    background-color: rgb(160, 139, 94);
+    color: black;
+}
